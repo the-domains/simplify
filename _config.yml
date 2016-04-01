@@ -1,0 +1,28 @@
+name: Simplify
+favicon: null
+layout_spectrum: 0.28303017863072455
+typography_spectrum: 0.8601327026262879
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.08979170979000628
+  lightness: 0.01898696506395936
+  saturation: 0.268975532380864
+  rhythmicContrast: 0.4743701929692179
+purpose: []
