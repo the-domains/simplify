@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A Journey Into A Life of A Genius Unknown
-datePublished: '2016-04-02T00:33:50.453Z'
-dateModified: '2016-04-02T00:33:46.021Z'
+datePublished: '2016-04-02T00:35:21.859Z'
+dateModified: '2016-04-02T00:34:03.114Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-01-a-glance-into-the-life-of-a-genius-unknown.md
